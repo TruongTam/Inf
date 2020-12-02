@@ -3,6 +3,7 @@
   background-position: 50% 50%;
 }
 
+
 .u-section-1 .u-sheet-1 {
   min-height: 928px;
 }
@@ -85,7 +86,8 @@
     width: 340px;
   }
 }.u-section-2 {
-  background-image: none;
+  background-image:url("back/2.png");
+  /* background-color: rgb(114, 165, 42); */
   min-height: 753px;
 }
 
@@ -97,6 +99,7 @@
 
 .u-section-2 .u-container-layout-1 {
   padding: 30px;
+  box-shadow: 10px 15px 8px #7b7873;
 }
 
 .u-section-2 .u-layout-wrap-1 {
@@ -283,12 +286,16 @@
   margin-top: 60px;
   margin-bottom: 60px;
 }
+.u-section-3{
+  background-image: url("back/3.png");
+}
 
 .u-section-3 .u-layout-cell-1 {
   min-height: 533px;
 }
 
 .u-section-3 .u-container-layout-1 {
+  box-shadow: 5px 5px 8px rgb(57, 54, 54);
   padding: 30px;
 }
 
@@ -648,4 +655,8 @@
     margin-right: initial;
     margin-left: initial;
   }
+}
+div#carousel-aeaf {
+  position: relative;
+  left: 20px;
 }
