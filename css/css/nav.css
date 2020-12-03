@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #nav{
     position: absolute;;
     height: 100%;
@@ -144,7 +144,7 @@ li :hover{
     70%   {background-image: url('navimg/6.png');}
     100%   {background-image: url('navimg/end.png');}
 }
-=======
+
 #nav{
     position: absolute;;
     height: 100%;
@@ -286,4 +286,4 @@ li :hover{
     70%   {background-image: url('navimg/6.png');}
     100%   {background-image: url('navimg/end.png');}
 }
->>>>>>> 1988d74f6ae1fe5d6b8a6658f43a500733dafad8
+
