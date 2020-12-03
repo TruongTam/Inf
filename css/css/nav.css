@@ -27,3 +27,115 @@ hr{
     height: 100%;
     background-color: rgb(251, 171, 105);
 } */
+.nav{
+    z-index: 120;
+    position: fixed;
+    top: 0px;
+    min-height: 30px;
+    width: 50%;
+  
+    opacity: 60%;
+}
+#lets{
+    position: relative;
+    font-size: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    text-align: center;
+    top: 120px;
+    opacity: 0%;
+    animation: let 2s 3s infinite;
+}
+@keyframes let {
+    0%{opacity: 0%;}
+    50%{opacity: 60%;}
+    80%{opacity: 40%;}
+    100%{opacity: 100%;}
+}
+.test{
+top: 30px;
+
+
+}
+.test img{
+    height: 100px;
+    width: 30%;
+    display: inline-block;
+    float: left;
+}
+#truong{
+    position: relative;
+    animation:truong 4s 1s 4;
+    left: 0px;
+}
+#thanh{
+    position: relative;
+    animation:thanh 4s 1s 4;
+    top: 0px;
+}
+#tam{
+    position: relative;
+    animation:tam 4s 1s 4;
+    right: 0px;
+}
+@keyframes truong{
+    0% {left: -999px;}
+    80%{left: 0px;}
+}
+@keyframes thanh{
+    0% {top: -999px;}
+    80%{top: 0px;}
+}
+@keyframes tam{
+    0% {right: -999px;}
+    80%{right: 0px;}
+}
+.nav image{
+    align-items: center;
+    height: 10%;width: 10%;
+}
+.nav .navl{
+    position: relative;
+    background-color: rgb(208, 207, 207);
+    border: 1px solid white;
+    left: 0px;
+   min-width: 25%;
+
+}
+.nav .navr{
+    position: relative;
+    background-color: rgb(174, 174, 174);
+    border: 1px solid white;
+    right: 0px;
+    min-width: 25%;
+}
+.nav ul li{
+    display: inline-block;
+}
+li{
+    
+    
+    margin-left: 9px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li :hover{
+    background-color: yellow;
+}
+#word{
+    top:500px;
+    text-align: center;
+}
+#word1{
+    top: 505px;
+    text-align: center;
+    z-index: 100;
+}
+@keyframes navi{
+    0%   {background-image: url("navimg/1.png");}
+    10%   {background-image: url('navimg/2.png');}
+    20%   {background-image: url('navimg/3.png');}
+    30%   {background-image: url('navimg/4.png');}
+    50%   {background-image: url('navimg/5.png');}
+    70%   {background-image: url('navimg/6.png');}
+    100%   {background-image: url('navimg/end.png');}
+}
