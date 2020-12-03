@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 window.onload = function() {
     
@@ -111,7 +111,7 @@ function read(chuois ,words,x){
     
        
 }
-=======
+
 
 window.onload = function() {
     
@@ -224,4 +224,4 @@ function read(chuois ,words,x){
     
        
 }
->>>>>>> 1988d74f6ae1fe5d6b8a6658f43a500733dafad8
+
