@@ -1,335 +1,215 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="We Thrive to Utilize the Best Of Our Capabilities">
-    <meta name="description" content="">
-    <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Thanh Tam Proflie </title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="Page-9.css" media="screen">
-    <link rel="stylesheet" href="css/css/bootstrap.min.css">
-    <link rel="icon" type="image/gif" href="images/icon.png" />
-    <link rel="stylesheet" href="css/css/nav.css">
-    <script class="u-script" type="text/javascript" src="jquery-1.9.1.min.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <meta name="generator" content="Nicepage 3.0.11, nicepage.com">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
-    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i">
-    <script src="css/js/bootstrap.min.js"></script>
-    <script src="css/js/bootstrap.js"></script>
-    <script src="css/js/nav.js"></script>
-    <script src="jquery-1.9.1.min.js"></script>
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "",
-		"url": "index.html"
-}</script>
-
-    <meta property="og:title" content="Page 9">
-    <meta property="og:type" content="website">
-    <meta name="theme-color" content="#478ac9">
-    <link rel="canonical" href="index.html">
-    <meta property="og:url" content="index.html">
-  </head>
-  <body class="u-body">
-  <div class="nav">
-    <div class="navl">
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#dev">Developer</a></li>
-      </ul>
-    </div>
-    <div class="navr">
-      <ul>    
-        <li><a href="#des">Designer</a></li>
-        <li><a href="#con">Contact</a></li>
-    </ul>
-  </div>
-    
-  </div>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" id="sec-11c2">
-      <div class="u-clearfix u-sheet u-sheet-1"id="home">
-      <p id="word"></p>
-      <p id="word1"></p>
-      <div class="test">
-        <div id="truong">
-          <img src="css/css/tiltle/truong.png" alt="">
-        </div>
-        <div id="thanh">
-          <img src="css/css/tiltle/thanh.png" alt="">
-        </div>
-        <div id="tam">
-          <img src="css/css/tiltle/tam.png" alt="">
-        </div>
-    </div>
-    <div id="lets">
-        <p>     Let's Me Show !</p>
-    </div>
-        <p class="u-large-text u-text u-text-variant u-text-2">Welcome to my page. let's call me Winnerart.<br>Developer android, Designer, UL /UI,WP Dev,
-        </p>
-       
-        <!-- <a href="#dev" class="u-btn u-button-style u-palette-2-base u-btn-4">Dev</a>
-        <a href="#des" class="u-btn u-button-style u-palette-2-base u-btn-2">Design</a> -->
-      </div>
-    </section>
-    <section class="u-align-center u-clearfix u-expand-resize u-valign-top u-white u-section-2" id="carousel_264a">
-      <div class="u-container-style u-group u-palette-1-base u-group-1"id="dev">
-        <div class="u-container-layout u-container-layout-1" style="box-shadow:5px 10px 8px rgb(148, 138, 138)"></div>
-      </div>
-      <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
-        <div class="u-layout">
-          <div class="u-layout-row">
-            <div class="u-container-style u-expand-resize u-layout-cell u-left-cell u-size-29 u-layout-cell-1">
-              <div class="u-container-layout u-container-layout-2">
-                <h1 class="u-custom-font u-font-roboto-condensed u-text u-text-palette-1-base u-text-1"><div >I'm Dev</div></h1>
-                <p class="u-text u-text-grey-50 u-text-2">During my college years, my teammates and I made a lot of products, which I think is really useful. </p>
-                <ul class="u-custom-list u-text u-text-default u-text-3">
-                  <li style="margin-left: 1.6em;">
-                    <div class="u-list-icon u-text-palette-1-base">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-7a80" style="margin: -0.7em; font-size: 0.7em;"><g><g><path d="M256,0C115.39,0,0,115.39,0,256s115.39,256,256,256s256-115.39,256-256S396.61,0,256,0z"></path>
-</g>
-</g></svg>
-                    </div><a href="https://bit.ly/39vlIaA">Manage Coffe</a>
-                  </li>
-                  <li style="margin-left: 1.6em;">
-                    <div class="u-list-icon u-text-palette-1-base">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-7a80" style="margin: -0.7em; font-size: 0.7em;"><g><g><path d="M256,0C115.39,0,0,115.39,0,256s115.39,256,256,256s256-115.39,256-256S396.61,0,256,0z"></path>
-</g>
-</g></svg>
-                    </div><a href="https://bit.ly/37ufNQe">Ai la trieu phu game</a>
-                  </li>
-                  <li style="margin-left: 1.6em;">
-                    <div class="u-list-icon u-text-palette-1-base">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-7a80" style="margin: -0.7em; font-size: 0.7em;"><g><g><path d="M256,0C115.39,0,0,115.39,0,256s115.39,256,256,256s256-115.39,256-256S396.61,0,256,0z"></path>
-</g>
-</g></svg>
-                    </div><a href="https://drive.google.com/file/d/1FZiMk2pkYLGc9jq7P8Ruivybg3CszCqn/view?usp=sharing">Trade Web</a>
-                  </li>
-                  <li style="margin-left: 1.6em;">
-                    <div class="u-list-icon u-text-palette-1-base">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-7a80" style="margin: -0.7em; font-size: 0.7em;"><g><g><path d="M256,0C115.39,0,0,115.39,0,256s115.39,256,256,256s256-115.39,256-256S396.61,0,256,0z"></path>
-</g>
-</g></svg>
-                    </div><a href="https://drive.google.com/file/d/1AW4Zdxlbw228GDuDuiJlRbxtYyGTndny/view?usp=sharing">flappy bird (more function)</a>
-                  </li>
-                  <li style="margin-left: 1.6em;">
-                    <div class="u-list-icon u-text-palette-1-base">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-7a80" style="margin: -0.7em; font-size: 0.7em;"><g><g><path d="M256,0C115.39,0,0,115.39,0,256s115.39,256,256,256s256-115.39,256-256S396.61,0,256,0z"></path>
-</g>
-</g></svg>
-                    </div>.... visit my github
-                  </li>
-                </ul>
-                <p class="u-text u-text-default u-text-4">I</p>
-              </div>
-            </div>
-            <div class="u-align-left u-container-style u-image u-layout-cell u-right-cell u-size-31 u-image-1">
-              <div class="u-container-layout u-container-layout-3"></div>
-            </div>
-          </div>
-        </div>
-    
-      </div>
-    </section>
-    <hr>
-    <section class="u-clearfix u-section-3" id="sec-2243">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1" id="des">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-container-style u-layout-cell u-size-60 u-layout-cell-1">
-                <div class="u-container-layout u-container-layout-1">
-                  <h1 class="u-align-center u-text u-text-default u-text-palette-1-base u-text-1"><div >I'm Designer</div></h1>
-                  <p class="u-align-center u-text u-text-default u-text-2">Let's me show!</p>
-                  <div class="u-carousel u-gallery u-layout-carousel u-lightbox u-no-transition u-show-text-always u-gallery-1" data-interval="5000" data-u-ride="carousel" id="carousel-aeaf">
-                    <hr>
-                    <ol class="u-absolute-hcenter u-carousel-indicators u-carousel-indicators-1">
-                      <li data-u-target="#carousel-aeaf" data-u-slide-to="0" class="u-active u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
-                      <li data-u-target="#carousel-aeaf" data-u-slide-to="1" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
-                      <li data-u-target="#carousel-aeaf" data-u-slide-to="2" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
-                      <li data-u-target="#carousel-aeaf" data-u-slide-to="3" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
-                      <li data-u-target="#carousel-aeaf" data-u-slide-to="4" class="u-grey-70 u-shape-circle" style="width: 10px; height: 10px;"></li>
-                    
-                    </ol>
-                    <div class="u-carousel-inner u-gallery-inner" role="listbox">
-                      <div class="u-active u-carousel-item u-gallery-item">
-                        <div class="u-back-slide" data-image-width="1280" data-image-height="853">
-                          <img class="u-back-image u-expanded" src="images/3.jpg">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Firebase Phone Authentication</title>
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth.css" />
+    <script>
+    </script>
+</head>
+<body>
+    <div id="container">
+        <h3>Firebase Phone Number Auth. Demo</h3>
+        <div id="loading">Loading...</div>
+        <div id="loaded" class="hidden">
+            <div id="main">
+                <div id="user-signed-in" class="hidden">
+                    <div id="user-info">
+                        <div id="photo-container">
+                            <img id="photo">
                         </div>
-                        <div class="u-over-slide u-over-slide-1">
-                          <h3 class="u-gallery-heading">Ý Chí</h3>
-                          <p class="u-gallery-text">chỉ cần ý chí mạnh mẽ thì chiến thắng mọi kẻ thù dù có lớn đến đâu đi nữa</p>
-                        </div>
-                      </div>
-                      <div class="u-carousel-item u-gallery-item">
-                        <div class="u-back-slide">
-                          <img class="u-back-image u-expanded" src="images/1.jpg">
-                        </div>
-                        <div class="u-over-slide u-over-slide-2">
-                          <h3 class="u-gallery-heading">Cổng Mắt</h3>
-                          <p class="u-gallery-text">Đường đi </p>
-                        </div>
-                      </div>
-                      <div class="u-carousel-item u-gallery-item">
-                        <div class="u-back-slide">
-                          <img class="u-back-image u-expanded" src="images/6.jpg">
-                        </div>
-                        <div class="u-over-slide u-over-slide-4">
-                          <h3 class="u-gallery-heading">War</h3>
-                          <p class="u-gallery-text">Ký sự Quốc Phòng 3</p>
-                        </div>
-                      </div>
-                      <div class="u-carousel-item u-gallery-item">
-                        <div class="u-back-slide">
-                          <img class="u-back-image u-expanded" src="images/4.jpg">
-                        </div>
-                        <div class="u-over-slide u-over-slide-3">
-                          <h3 class="u-gallery-heading">Đời Người Bao Nhiêu</h3>
-                          <p class="u-gallery-text"><p>Thời gian ngắn ngủi, hãy trân trọng nhau khi còn có thể.
-                            kết thúc mối quan hệ, điều còn lại là những kỹ niệm điều tốt đẹp nhất</p>
-                          </p>
-                        </div>
-                      </div>
-                      <div class="u-carousel-item u-gallery-item">
-                        <div class="u-back-slide">
-                          <img class="u-back-image u-expanded" src="images/7.jpg">
-                        </div>
-                        <div class="u-over-slide u-over-slide-5">
-                          <h3 class="u-gallery-heading">Đời Người Bao Nhiêu</h3>
-                          <p class="u-gallery-text">ời gian ngắn ngủi, hãy trân trọng nhau khi còn có thể</p>
-                        </div>
-                      </div>
+                        <div id="name"></div>
+                        <div id="email"></div>
+                        <div id="phone"></div>
+                        <div id="account-details"></div>
+                        <div class="clearfix"></div>
                     </div>
-                    <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-carousel-control-1" href="#carousel-aeaf" role="button" data-u-slide="prev">
-                      <span aria-hidden="true">
-                        <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
-c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
-c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
-                      </span>
-                      <span class="sr-only">
-                        <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
-c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
-c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
-                      </span>
-                    </a>
-                    <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-carousel-control-2" href="#carousel-aeaf" role="button" data-u-slide="next">
-                      <span aria-hidden="true">
-                        <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
-L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
-c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
-                      </span>
-                      <span class="sr-only">
-                        <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
-L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
-c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
-                      </span>
-                    </a>
-                  </div>
+                    <p>
+                        <button id="sign-out">Sign Out</button>
+                        <button id="delete-account">Delete account</button>
+                    </p>
                 </div>
-              </div>
+                <div id="user-signed-out" class="hidden">
+                    <h4>You are signed out.</h4>
+                    <div id="firebaseui-spa">
+                        <h3>Single Page App mode:</h3>
+                        <div id="firebaseui-container"></div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-    </section>
-    <hr>
-    <div id="orther">
-      <!-- <section>
-        <div id="title"><h1>Other </h1></div>
-        <div>
-           <div class="c#">
-            <div class="icon"></div>
-           </div>
-          
-        </div>
-
-      </section> -->
     </div>
-    <section class="u-align-center u-clearfix u-section-4" id="sec-accd" >
-      <div class="u-clearfix u-sheet u-sheet-1"id="con">
-        <h1 class="u-text u-text-1" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="Down">Contact me here!</h1>
-        <div class="u-expanded-width u-list u-repeater u-list-1">
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1"><span class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style=""><use xlink:href="#svg-44ec"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" id="svg-44ec"><g><g><path d="m310.217 93.67c4.497 0 8.832 1.323 12.538 3.826 3.434 2.318 8.097 1.416 10.416-2.017 2.32-3.434 1.416-8.097-2.017-10.416-6.195-4.185-13.436-6.398-20.937-6.398-20.643 0-37.438 16.795-37.438 37.438s16.795 37.439 37.438 37.439c8.251 0 15.658-2.713 21.42-7.844 1.131-1.007 2.203-2.114 3.189-3.289 2.662-3.176 2.245-7.908-.93-10.57-3.175-2.663-7.908-2.245-10.569.93-.519.619-1.081 1.2-1.67 1.724-3.013 2.683-6.862 4.044-11.44 4.044-12.37 0-22.434-10.064-22.434-22.434 0-12.369 10.064-22.433 22.434-22.433z"></path><path d="m384.903 153.541h.06c3.765-.025 7.11-2.437 8.339-6.053l19.549-58.846c1.306-3.932-.823-8.178-4.755-9.485-3.933-1.308-8.179.822-9.485 4.754l-13.836 41.649-14.528-41.853c-1.359-3.915-5.634-5.988-9.548-4.627-3.914 1.359-5.986 5.633-4.627 9.547l20.488 59.023c1.254 3.531 4.602 5.891 8.343 5.891z"></path><path d="m410.919 243.935h-140.705c-4.143 0-7.502 3.359-7.502 7.502s3.359 7.502 7.502 7.502h140.705c4.143 0 7.502-3.359 7.502-7.502s-3.358-7.502-7.502-7.502z"></path><path d="m270.214 304.959h70.353c4.143 0 7.502-3.358 7.502-7.502s-3.359-7.502-7.502-7.502h-70.353c-4.143 0-7.502 3.358-7.502 7.502s3.359 7.502 7.502 7.502z"></path><path d="m410.919 335.974h-140.705c-4.143 0-7.502 3.358-7.502 7.502s3.359 7.502 7.502 7.502h140.705c4.143 0 7.502-3.359 7.502-7.502s-3.358-7.502-7.502-7.502z"></path><path d="m418.422 389.496c0-4.144-3.359-7.502-7.502-7.502h-140.706c-4.143 0-7.502 3.358-7.502 7.502s3.359 7.502 7.502 7.502h140.705c4.144.001 7.503-3.358 7.503-7.502z"></path><path d="m270.214 429.242c-4.143 0-7.502 3.358-7.502 7.502s3.359 7.502 7.502 7.502h70.353c4.143 0 7.502-3.359 7.502-7.502s-3.359-7.502-7.502-7.502z"></path><path d="m410.919 197.915h-140.705c-4.143 0-7.502 3.359-7.502 7.502s3.359 7.502 7.502 7.502h140.705c4.143 0 7.502-3.359 7.502-7.502s-3.358-7.502-7.502-7.502z"></path><path d="m450.916 105.271c4.143 0 7.502-3.359 7.502-7.502v-69.058c.001-15.831-12.879-28.711-28.711-28.711h-347.414c-15.832 0-28.712 12.88-28.712 28.711v454.577c0 15.831 12.88 28.711 28.712 28.711h347.413c15.832 0 28.712-12.88 28.712-28.711v-350.445c0-4.144-3.359-7.502-7.502-7.502s-7.502 3.359-7.502 7.502v350.446c0 7.558-6.149 13.707-13.707 13.707h-191.213v-481.991h191.212c7.558 0 13.707 6.148 13.707 13.707v69.058c.001 4.143 3.36 7.501 7.503 7.501zm-227.427 391.724h-141.196c-7.558 0-13.707-6.148-13.707-13.707v-454.577c0-7.558 6.149-13.707 13.707-13.707h141.196z"></path><path d="m146.133 175.586c32.697 0 59.483-26.623 59.483-59.483 0-32.799-26.684-59.483-59.483-59.483s-59.483 26.684-59.483 59.483c0 32.82 26.746 59.483 59.483 59.483zm0-15.005c-9.72 0-18.714-3.143-26.04-8.453 3.123-6.322 8.521-11.396 15.059-14.091 3.336 1.569 7.057 2.451 10.981 2.451s7.645-.882 10.981-2.451c6.538 2.695 11.936 7.769 15.059 14.091-7.325 5.311-16.32 8.453-26.04 8.453zm-10.89-45.988c0-6.006 4.885-10.891 10.891-10.891 6.005 0 10.891 4.885 10.891 10.891 0 6.005-4.885 10.89-10.891 10.89s-10.891-4.885-10.891-10.89zm10.89-42.968c24.526 0 44.478 19.953 44.478 44.478 0 9.171-2.791 17.702-7.567 24.79-3.639-5.618-8.499-10.333-14.256-13.774 2.062-3.715 3.241-7.985 3.241-12.526 0-14.279-11.617-25.896-25.896-25.896s-25.896 11.617-25.896 25.896c0 4.542 1.179 8.811 3.241 12.526-5.758 3.441-10.618 8.156-14.256 13.774-4.776-7.088-7.567-15.619-7.567-24.79 0-24.525 19.953-44.478 44.478-44.478z"></path><path d="m102.663 285.222h86.94c8.935 0 16.204-7.269 16.204-16.203v-21.435c0-8.935-7.269-16.203-16.204-16.203h-86.94c-8.935 0-16.204 7.269-16.204 16.203v21.435c0 8.934 7.269 16.203 16.204 16.203zm-1.199-37.638c0-.661.538-1.199 1.199-1.199h86.94c.661 0 1.199.537 1.199 1.199v21.435c0 .661-.538 1.199-1.199 1.199h-86.94c-.661 0-1.199-.537-1.199-1.199z"></path><path d="m102.663 364.734h7.57c4.143 0 7.502-3.358 7.502-7.502s-3.359-7.502-7.502-7.502h-7.57c-.661 0-1.199-.537-1.199-1.199v-21.435c0-.661.538-1.199 1.199-1.199h86.94c.661 0 1.199.537 1.199 1.199v21.435c0 .661-.538 1.199-1.199 1.199h-44.297c-4.143 0-7.502 3.359-7.502 7.502s3.359 7.502 7.502 7.502h44.297c8.935 0 16.204-7.269 16.204-16.203v-21.435c0-8.935-7.269-16.203-16.204-16.203h-86.94c-8.935 0-16.204 7.269-16.204 16.203v21.435c0 8.935 7.269 16.203 16.204 16.203z"></path><path d="m102.663 444.247h86.94c8.935 0 16.204-7.269 16.204-16.203v-21.435c0-8.935-7.269-16.203-16.204-16.203h-86.94c-8.935 0-16.204 7.269-16.204 16.203v21.435c0 8.934 7.269 16.203 16.204 16.203zm-1.199-37.639c0-.661.538-1.199 1.199-1.199h86.94c.661 0 1.199.537 1.199 1.199v21.435c0 .661-.538 1.199-1.199 1.199h-86.94c-.661 0-1.199-.537-1.199-1.199z"></path>
-</g>
-</g></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-2">Download here&nbsp;</h3>
-              <p class="u-text u-text-default u-text-3">See more...</p>
-            </div>
-          </div>
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2"><span class="u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style=""><use xlink:href="#svg-f33c"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" id="svg-f33c"><path d="m512 256c0-141.4-114.6-256-256-256s-256 114.6-256 256 114.6 256 256 256c1.5 0 3 0 4.5-.1v-199.2h-55v-64.1h55v-47.2c0-54.7 33.4-84.5 82.2-84.5 23.4 0 43.5 1.7 49.3 2.5v57.2h-33.6c-26.5 0-31.7 12.6-31.7 31.1v40.8h63.5l-8.3 64.1h-55.2v189.5c107-30.7 185.3-129.2 185.3-246.1z"></path></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-4"><a href="sshttps://www.facebook.com/messages/t/profile.idTTWinerArt.cshtml">Facebook</a></h3>
-              <p class="u-text u-text-default u-text-5">something</p>
-            </div>
-          </div>
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3"><span class="u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style=""><use xlink:href="#svg-c6e0"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-c6e0" style="enable-background:new 0 0 512 512;"><g><g><path d="M464,64h-16H64H48C21.504,64,0,85.504,0,112v16v256v16c0,26.496,21.504,48,48,48h16h384h16c26.496,0,48-21.504,48-48v-16    V128v-16C512,85.504,490.496,64,464,64z M407.488,96L256,215.616L104.512,96H407.488z M448,416H64V148.672l192,147.68L448,148.64    V416z"></path>
-</g>
-</g></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-6"><a href="mailto:truongthanhtam220@gmai.com">Email</a></h3>
-              <p class="u-text u-text-default u-text-7">normal</p>
-            </div>
-          </div>
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4"><span class="u-icon u-icon-circle u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 511 511.9" style=""><use xlink:href="#svg-e32c"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 511 511.9" id="svg-e32c"><path d="m510.949219 150.5c-1.199219-27.199219-5.597657-45.898438-11.898438-62.101562-6.5-17.199219-16.5-32.597657-29.601562-45.398438-12.800781-13-28.300781-23.101562-45.300781-29.5-16.296876-6.300781-34.898438-10.699219-62.097657-11.898438-27.402343-1.300781-36.101562-1.601562-105.601562-1.601562s-78.199219.300781-105.5 1.5c-27.199219 1.199219-45.898438 5.601562-62.097657 11.898438-17.203124 6.5-32.601562 16.5-45.402343 29.601562-13 12.800781-23.097657 28.300781-29.5 45.300781-6.300781 16.300781-10.699219 34.898438-11.898438 62.097657-1.300781 27.402343-1.601562 36.101562-1.601562 105.601562s.300781 78.199219 1.5 105.5c1.199219 27.199219 5.601562 45.898438 11.902343 62.101562 6.5 17.199219 16.597657 32.597657 29.597657 45.398438 12.800781 13 28.300781 23.101562 45.300781 29.5 16.300781 6.300781 34.898438 10.699219 62.101562 11.898438 27.296876 1.203124 36 1.5 105.5 1.5s78.199219-.296876 105.5-1.5c27.199219-1.199219 45.898438-5.597657 62.097657-11.898438 34.402343-13.300781 61.601562-40.5 74.902343-74.898438 6.296876-16.300781 10.699219-34.902343 11.898438-62.101562 1.199219-27.300781 1.5-36 1.5-105.5s-.101562-78.199219-1.300781-105.5zm-46.097657 209c-1.101562 25-5.300781 38.5-8.800781 47.5-8.601562 22.300781-26.300781 40-48.601562 48.601562-9 3.5-22.597657 7.699219-47.5 8.796876-27 1.203124-35.097657 1.5-103.398438 1.5s-76.5-.296876-103.402343-1.5c-25-1.097657-38.5-5.296876-47.5-8.796876-11.097657-4.101562-21.199219-10.601562-29.398438-19.101562-8.5-8.300781-15-18.300781-19.101562-29.398438-3.5-9-7.699219-22.601562-8.796876-47.5-1.203124-27-1.5-35.101562-1.5-103.402343s.296876-76.5 1.5-103.398438c1.097657-25 5.296876-38.5 8.796876-47.5 4.101562-11.101562 10.601562-21.199219 19.203124-29.402343 8.296876-8.5 18.296876-15 29.398438-19.097657 9-3.5 22.601562-7.699219 47.5-8.800781 27-1.199219 35.101562-1.5 103.398438-1.5 68.402343 0 76.5.300781 103.402343 1.5 25 1.101562 38.5 5.300781 47.5 8.800781 11.097657 4.097657 21.199219 10.597657 29.398438 19.097657 8.5 8.300781 15 18.300781 19.101562 29.402343 3.5 9 7.699219 22.597657 8.800781 47.5 1.199219 27 1.5 35.097657 1.5 103.398438s-.300781 76.300781-1.5 103.300781zm0 0"></path><path d="m256.449219 124.5c-72.597657 0-131.5 58.898438-131.5 131.5s58.902343 131.5 131.5 131.5c72.601562 0 131.5-58.898438 131.5-131.5s-58.898438-131.5-131.5-131.5zm0 216.800781c-47.097657 0-85.300781-38.199219-85.300781-85.300781s38.203124-85.300781 85.300781-85.300781c47.101562 0 85.300781 38.199219 85.300781 85.300781s-38.199219 85.300781-85.300781 85.300781zm0 0"></path><path d="m423.851562 119.300781c0 16.953125-13.746093 30.699219-30.703124 30.699219-16.953126 0-30.699219-13.746094-30.699219-30.699219 0-16.957031 13.746093-30.699219 30.699219-30.699219 16.957031 0 30.703124 13.742188 30.703124 30.699219zm0 0"></path></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-8">Instagram</h3>
-              <p class="u-text u-text-default u-text-9">a weekend&nbsp;</p>
-            </div>
-          </div>
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5"><span class="u-icon u-icon-circle u-icon-5"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 24 24" style=""><use xlink:href="#svg-b3f0"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 24 24" id="svg-b3f0"><path d="m9.417 15.181-.397 5.584c.568 0 .814-.244 1.109-.537l2.663-2.545 5.518 4.041c1.012.564 1.725.267 1.998-.931l3.622-16.972.001-.001c.321-1.496-.541-2.081-1.527-1.714l-21.29 8.151c-1.453.564-1.431 1.374-.247 1.741l5.443 1.693 12.643-7.911c.595-.394 1.136-.176.691.218z"></path></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-10">Telegram</h3>
-              <p class="u-text u-text-default u-text-11">0362******</p>
-            </div>
-          </div>
-          <div class="u-align-center u-container-style u-list-item u-repeater-item">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6"><span class="u-icon u-icon-circle u-icon-6"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 24 24" style=""><use xlink:href="#svg-fc12"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 24 24" id="svg-fc12" style="color: currentcolor;"><path d="m12 .5c-6.63 0-12 5.28-12 11.792 0 5.211 3.438 9.63 8.205 11.188.6.111.82-.254.82-.567 0-.28-.01-1.022-.015-2.005-3.338.711-4.042-1.582-4.042-1.582-.546-1.361-1.335-1.725-1.335-1.725-1.087-.731.084-.716.084-.716 1.205.082 1.838 1.215 1.838 1.215 1.07 1.803 2.809 1.282 3.495.981.108-.763.417-1.282.76-1.577-2.665-.295-5.466-1.309-5.466-5.827 0-1.287.465-2.339 1.235-3.164-.135-.298-.54-1.497.105-3.121 0 0 1.005-.316 3.3 1.209.96-.262 1.98-.392 3-.398 1.02.006 2.04.136 3 .398 2.28-1.525 3.285-1.209 3.285-1.209.645 1.624.24 2.823.12 3.121.765.825 1.23 1.877 1.23 3.164 0 4.53-2.805 5.527-5.475 5.817.42.354.81 1.077.81 2.182 0 1.578-.015 2.846-.015 3.229 0 .309.21.678.825.56 4.801-1.548 8.236-5.97 8.236-11.173 0-6.512-5.373-11.792-12-11.792z" fill="currentColor"></path></svg>
-            
-            
-          </span>
-              <h3 class="u-text u-text-default u-text-12"><a href="https://github.com/TruongTam">Github</a></h3>
-              <p class="u-text u-text-default u-text-13">welcome</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    
-    <hr>
-    
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="jjhttps://www.facebook.com/messages/t/profile.idTTWinerArt.cshtml" target="_blank">
-        <span>Coppy right</span>
-      </a>
-      <p class="u-text">
-        <span>by</span>
-      </p>
-      <a class="u-link" href="jjhttps://www.facebook.com/profile.idTTWinerArt.cshtml" target="_blank">
-        <span>TTT</span>
-      </a>. 
-    </section>
-  </body>
+    <script src="https://www.gstatic.com/firebasejs/6.0.1/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/ui/6.0.1/firebase-ui-auth__vi.js"></script>
+    <script>
+            // Initialize the FirebaseUI Widget using Firebase.
+        //var provider = new firebase.auth();
+        //provider.languageCode = 'vi';
+
+
+        const firebaseConfig = {
+  apiKey: "AIzaSyAoo6eVGKMzoR6GR14a__xS7lhFIGM7DNU",
+  authDomain: "noticationpush-f968f.firebaseapp.com",
+  projectId: "noticationpush-f968f",
+  storageBucket: "noticationpush-f968f.appspot.com",
+  messagingSenderId: "1097309670315",
+  appId: "1:1097309670315:web:556841571d1dc751c960ee",
+  measurementId: "G-SYHZ7LDXEV"
+};
+        if (firebase.apps.length === 0) {
+            firebase.initializeApp(firebaseConfig);
+        }
+
+        this.ui = firebaseui.auth.AuthUI.getInstance() || new firebaseui.auth.AuthUI(firebase.auth());
+
+        var uiConfig = {
+            signInFlow: 'popup',
+            signInSuccessUrl: '',
+            signInOptions: [
+                {
+                    defaultCountry: 'VN',
+                    provider: firebase.auth.PhoneAuthProvider.PROVIDER_ID,
+                    providerName: 'SĐT',
+                },
+                {
+                    provider: firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+                    //buttonColor: '#2F2F2F',
+                    //iconUrl: '<icon-url-of-sign-in-button>',
+                    //loginHintKey: 'login_hint',
+                    //scopes: [
+                    //],
+                    //customParameters: {
+                    //    prompt: 'consent'
+                    //}
+
+                },
+                //    firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+                //    firebase.auth.TwitterAuthProvider.PROVIDER_ID,
+                //    firebase.auth.GithubAuthProvider.PROVIDER_ID,
+                //    firebase.auth.EmailAuthProvider.PROVIDER_ID,
+            ],
+            tosUrl: '',
+            //    privacyPolicyUrl: function () {
+            //        window.location.assign('https://localhost:7140/');
+            //    }
+        };
+
+        //function getUiConfig() {
+        //    return {
+        //        'callbacks': {
+        //            // Called when the user has been successfully signed in.
+        //            'signInSuccess': function (user, credential, redirectUrl) {
+        //                handleSignedInUser(user);
+        //                return false;
+        //            }
+        //        },
+        //        // Opens IDP Providers sign-in flow in a popup.
+        //        signInOptions: [
+        //            {
+        //                provider: firebase.auth.PhoneAuthProvider.PROVIDER_ID, defaultCountry: 'VN'
+        //            },
+        //            firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+        //            firebase.auth.FacebookAuthProvider.PROVIDER_ID,
+        //            firebase.auth.TwitterAuthProvider.PROVIDER_ID,
+        //            firebase.auth.GithubAuthProvider.PROVIDER_ID,
+        //            firebase.auth.EmailAuthProvider.PROVIDER_ID,
+        //        ],
+        //        signInFlow: 'popup',
+        //        signInSuccessUrl: 'http://localhost:3000/', // This URL is used to return to that page when we got success response for phone authentication.
+        //        tosUrl: 'http://localhost:3000/'
+
+        //    };
+        //}
+
+
+        var handleSignedInUser = function (user) {
+            console.log(user);
+            var displayName = user.displayName;
+            var email = user.email;
+            var emailVerified = user.emailVerified;
+            var photoURL = user.photoURL;
+            var uid = user.uid;
+            var phoneNumber = user.phoneNumber;
+            var providerData = user.providerData;
+            user.getIdToken().then(function (accessToken) {
+                document.getElementById('user-signed-in').style.display = 'block';
+                document.getElementById('user-signed-out').style.display = 'none';
+                document.getElementById('name').textContent = user.displayName;
+                document.getElementById('email').textContent = user.email;
+                document.getElementById('phone').textContent = user.phoneNumber;
+                if (user.photoURL) {
+                    document.getElementById('photo').src = user.photoURL;
+                    document.getElementById('photo').style.display = 'block';
+                } else {
+                    document.getElementById('photo').style.display = 'none';
+                }
+
+                document.getElementById('account-details').textContent = JSON.stringify({
+                    displayName: displayName,
+                    email: email,
+                    emailVerified: emailVerified,
+                    phoneNumber: phoneNumber,
+                    photoURL: photoURL,
+                    uid: uid,
+                    accessToken: accessToken,
+                    providerData: providerData
+                }, null, '  ');
+            });
+
+        };
+        /**
+         * Displays the UI for a signed out user.
+         */
+        var handleSignedOutUser = function () {
+            document.getElementById('user-signed-in').style.display = 'none';
+            document.getElementById('user-signed-out').style.display = 'block';
+            ui.start('#firebaseui-container', uiConfig);
+        };
+
+        // Listen to change in auth state so it displays the correct UI for when
+        // the user is signed in or not.
+        firebase.auth().onAuthStateChanged(function (user) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('loaded').style.display = 'block';
+            user ? handleSignedInUser(user) : handleSignedOutUser();
+        });
+
+        /**
+         * Deletes the user's account.
+         */
+        var deleteAccount = function () {
+            firebase.auth().currentUser.delete().catch(function (error) {
+                if (error.code == 'auth/requires-recent-login') {
+                    // The user's credential is too old. She needs to sign in again.
+                    firebase.auth().signOut().then(function () {
+                        // The timeout allows the message to be displayed after the UI has
+                        // changed to the signed out state.
+                        setTimeout(function () {
+                            alert('Please sign in again to delete your account.');
+                        }, 1);
+                    });
+                }
+            });
+        };
+
+        /**
+         * Initializes the app.
+         */
+        var initApp = function () {
+            document.getElementById('sign-out').addEventListener('click', function () {
+                firebase.auth().signOut();
+            });
+            document.getElementById('delete-account').addEventListener(
+                'click', function () {
+                    deleteAccount();
+                });
+        };
+
+        //window.addEventListener('load', function () {
+        //    initApp()
+        //});
+
+        window.addEventListener('load', initApp);
+    </script>
+</body>
 </html>
