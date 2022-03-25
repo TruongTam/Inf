@@ -8,6 +8,13 @@
     </script>
 </head>
 <body>
+<div>
+
+<fb:login-button 
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>
+</div>
     <div id="container">
         <h3>Firebase Phone Number Auth. Demo</h3>
         <div id="loading">Loading...</div>
@@ -47,6 +54,11 @@
         //provider.languageCode = 'vi';
 
 
+function checkLoginState() {
+  FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });
+}
         const firebaseConfig = {
   apiKey: "AIzaSyAoo6eVGKMzoR6GR14a__xS7lhFIGM7DNU",
   authDomain: "noticationpush-f968f.firebaseapp.com",
@@ -121,6 +133,38 @@
         //    };
         //}
 
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{your-app-id}',
+      cookie     : true,
+      xfbml      : true,
+      version    : '{api-version}'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+   
+
+FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+});
+var response={
+    status: 'connected',
+    authResponse: {
+        accessToken: '...',
+        expiresIn:'...',
+        signedRequest:'...',
+        userID:'...'
+    }}
 
         var handleSignedInUser = function (user) {
             console.log(user);
